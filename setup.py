@@ -1,9 +1,9 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
     name='plotly_svg',
     packages=['plotly_svg'],
-    version='0.01',
+    version='0.1',
     license='0BSD',
     description='Convenient way of generating vector graphics from plotly offline',
     author='tech2077',
