@@ -2,9 +2,16 @@
 `plotly_svg`
 ************
 
-.. |Generic badge| image:: https://img.shields.io/pypi/v/plotly-svg.svg
+.. |Version Badge| image:: https://img.shields.io/pypi/v/plotly-svg.svg
+    :target: https://pypi.org/project/plotly-svg/
+.. |PyVersion Badge| image:: https://img.shields.io/pypi/pyversions/requests.svg
+    :target: https://pypi.org/project/plotly-svg/
+.. |License Badge| image:: https://img.shields.io/pypi/l/plotly-svg.svg
     :target: https://pypi.org/project/plotly-svg/
 
+|Version Badge|
+|PyVersion Badge|
+|License Badge|
 
 Convenient way of generating vector graphics from plotly offline
 
